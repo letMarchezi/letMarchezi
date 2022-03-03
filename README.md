@@ -1,4 +1,12 @@
-### Hi there 👋
+### Heyy 👋
+
+- 🔭 I’m not working but I do collaborate with B2W digital on a MLOps project
+- 🌱 I’m currently learning Data Science, MLOps, Python, Docker and Kubeflow Pipelines
+- 👯 I’m looking to collaborate on any subject listed above
+- 🤔 I’m looking for help with git and docker
+- 📫 Want to contact me? Send a email to leticiabossatto@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love cats and Studio Ghibli movies
 
 <!--
 **letMarchezi/letMarchezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
