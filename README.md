@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on any subject listed above
 - 🤔 I’m looking for help with git and docker
 - 📫 Want to contact me? Send a email to leticiabossatto@gmail.com
-- 
 - :hibiscus: Pronouns: She/her
 - ⚡ Fun fact: I love cats and Studio Ghibli movies :cat: 
 
