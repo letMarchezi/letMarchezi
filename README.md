@@ -1,6 +1,6 @@
 ### Heyy 👋
 
-- 🔭 I’m not working right now but I do collaborate with B2W digital on a MLOps project
+- 🔭 I’m not working right now but I've been aiming to research NLP problems
 - 🌱 I’m currently learning Data Science, MLOps, Python, Docker and Kubeflow Pipelines
 - ✈️ I'm open to student exchange programs and job opportunities
 - 👯 I’m looking to collaborate on any subject listed above
