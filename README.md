@@ -1,10 +1,10 @@
 ### Heyy 👋
 
-- 🔭 I’m not working right now but I've been aiming to research NLP problems
-- 🌱 I’m currently learning Data Science, MLOps, Python, Docker and Kubeflow Pipelines
-- ✈️ I'm open to student exchange programs and job opportunities
+- 🔭 I’ve been researching Subjectivity Classification in NLP in partnership with the São Paulo Research Foundation - FAPESP
+- 🌱 I’m currently learning Data Science, Git, Python, Docker and Kubeflow Pipelines
+- Almost every assignment I have been developing in my CS degree is here: [University Assignments](https://github.com/letMarchezi/UniversityAssignments)
+- ✈️ I'll be open to student exchange programs and job opportunities in 6 months when my research is concluded
 - 👯 I’m looking to collaborate on any subject listed above
-- 🤔 I’m looking for help with git and docker
 - 📫 Want to contact me? Send a email to leticiabossatto@gmail.com
 - :hibiscus: Pronouns: She/her
 - ⚡ Fun fact: I love cats and Studio Ghibli movies :cat: 
