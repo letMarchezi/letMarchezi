@@ -2,7 +2,7 @@
 
 - 🔭 I’ve been researching Subjectivity Classification in NLP in partnership with the São Paulo Research Foundation - FAPESP
 - 🌱 I’m currently learning Data Science, Git, Python, Docker and Kubeflow Pipelines
-- Almost every assignment I have been developing in my CS degree is here: [University Assignments](https://github.com/letMarchezi/UniversityAssignments)
+- 💾 Almost every assignment I have been developing in my CS degree is here: [University Assignments](https://github.com/letMarchezi/UniversityAssignments)
 - ✈️ I'll be open to student exchange programs and job opportunities in 6 months when my research is concluded
 - 👯 I’m looking to collaborate on any subject listed above
 - 📫 Want to contact me? Send a email to leticiabossatto@gmail.com
