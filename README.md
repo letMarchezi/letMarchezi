@@ -3,7 +3,7 @@
 - 🔭 Currently working as a Data Scientist in Cognitivo.AI
 - 🌱 Studying Transformers, LLM agents, Deep neural networks and Natural Language Processing methods in general
 - 🔬 Developed research in collaboration with University of Sheffield's NLP research group (GATE)
-- 💾 Most assignment I have developed during my CS degree is here: [University Assignments](https://github.com/letMarchezi/UniversityAssignments)
+- 💾 Most assignments I have developed during my CS degree are here: [University Assignments](https://github.com/letMarchezi/UniversityAssignments)
 - 👯 I am open to collaborate on any subject listed above
 - 📫 Want to contact me? Send a DM to [my linkedin](linkedin.com/in/letmarchezi/) account!
 - :hibiscus: Pronouns: She/her
